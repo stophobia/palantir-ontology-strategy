@@ -1,4 +1,4 @@
-# パランティアの衝撃：データとAIを繋ぐ「オントロジー」戦略 🌐
+# パランティアの衝撃：データとAIを繋ぐ「オントロジー」戦略
 **The Palantir Impact: Ontology Strategy Connecting Data and AI**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
