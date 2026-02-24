@@ -1,5 +1,9 @@
 # The Palantir Impact: Ontology Strategy Connecting Data and AI 🌐
 
+<p align="left">
+  <img src="../assets/cover_design.png" width="80%">
+</p>
+
 ## Part I: The Problem and the Paradigm
 
 ### Prologue: Why "Data Integration" Fails in the AI Era
