@@ -55,12 +55,12 @@
 
 ## Author & Maintainer
 **Satoshi Yamauchi** (山内 怜史)<br>
-*(Business Designer & AI Strategist at Sun\*)*<br>
-**[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
-*(Founder / AI Strategist at Leading.AI)*<br>
-This project is part of the research by Leading.AI.<br>
-**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<br>
-*(For consulting inquiries and strategic partnership)*<br>
+* **Business Designer & AI Strategist at SunAsterisk.inc**
+* **Founder / AI Strategist at Leading.AI**
+* This project is part of the research by Leading.AI.
+
+* [📒 Read my insights on Note](https://note.com/satoshi_yamauchi)
+* [🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)
 
 ---
 
