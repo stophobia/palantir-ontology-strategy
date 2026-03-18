@@ -68,11 +68,15 @@ This book is part of a series of open-source research projects:
 
 | Project | Overview | Link |
 |---|---|---|
-| **The AI Strategist** | AIストラテジストという職業を定義し、ビジネス×テクノロジー×クリエイティブの交差点で戦うための実践的フレームワーク | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist) |
-| **Depth & Velocity** | A practical methodology for new business development in the generative AI era. The execution framework for the AI Strategist's "Execution through Methodology" layer | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
-| **The Silence of Intelligence** | A systematic analysis of Anthropic CEO Dario Amodei's philosophy. Reference for the AI Strategist's "AI Literacy at Depth" layer | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
-| **What They Won't Teach You** | A Manifesto on Intergenerational Responsibility in the AI Era | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
-| **The Edge of Intelligence** | Why Open-Weight AI Will Move from Cloud to Your Device, and What It Means for Business and Society | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
+| **The AI Strategist** | Defining the AI Strategist role with practical frameworks for the BTC intersection | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist) |
+| **Depth & Velocity** | A methodology for new business development in the generative AI era | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
+| **The Silence of Intelligence** | Systematizing Anthropic CEO Dario Amodei's philosophy — Industry Anatomy Series #2 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
+| **The Anatomy of Anthropic** | A comprehensive dissection of Anthropic's strategy, products, research, and safety | [GitHub](https://github.com/Leading-AI-IO/the-anatomy-of-anthropic) |
+| **What They Won't Teach You** | What the AI-advantaged generation won't teach you about AI and the "Thinking OS" | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
+| **The Edge of Intelligence** | When AI runs on your device: the end of cloud, the beginning of edge | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
+| **The Redesign of Design Strategy** | Redefining design strategy, including a structural analysis of IDEO's decline | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
+| **The Orchestrator** | The first-ever definition of the rarest role in the AI era | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
+| **Advertising, Redesigned** |  Why AI will transform advertising from intrusion to a gentle, welcome proposal | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
 
 ---
 
